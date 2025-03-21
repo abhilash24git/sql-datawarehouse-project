@@ -1,3 +1,3 @@
 # sql-datawarehouse-project
 
-## Welcome to the porject ##
+## SQL DATA WAREHOUSE PROJECT ##
